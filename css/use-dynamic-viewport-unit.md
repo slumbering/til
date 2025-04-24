@@ -1,4 +1,4 @@
-# # Use the new dvh unit for better viewport height handling
+# Use the new dvh unit for better viewport height handling
 Maybe for some of you (like me), dvh, standing for "dynamic viewport height", sounds like a new unit of measurement, but it is not.
 It is a new way to measure the viewport height. The dvh unit is a dynamic viewport height unit that takes into account the size of the browser's address bar and other UI elements that may affect the viewport size. This comes very handy when you are working with mobile devices, as the address bar can take up a significant amount of space on the screen.
 
