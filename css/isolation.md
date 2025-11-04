@@ -1,3 +1,4 @@
+# How CSS isolate Creates Stacking Contexts
 The isolation property in CSS is used to prevent elements from blending with their backdrops.
 
 ```css
